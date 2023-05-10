@@ -1,8 +1,12 @@
 # FileManager
-![image](https://github.com/AntonTuritsyn/FileManager/assets/36898420/3c581ecf-2453-46ba-8fa0-2ea42bb2d9d1)
-<img src="https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png" width=50% height=50%>
-<img src="https://github.com/AntonTuritsyn/FileManager/assets/36898420/a1f0c7d3-e4de-4364-adfa-819172a10f3e" width=50% height=50%>
 В соответствие с отборочным заданием на стажировку VK было создано подобие файлового менеджера для просмотра папок и файлов и некоторых действий с ними.
+
 Из-за отсутствия необходимого опыта и знаний на момент публикации приложение получилось практически неработающим. Необходимые функции были реализованны, но их корректной работы добиться не удалось(
-¯\_(ツ)_/¯
+
+¯\\_(ツ)_/¯
+
 Но я это так не оставлю, и доделаю его. В любом случае, спасибо за задание, я обрел ценный опыт и знания!
+
+<img src="https://github.com/AntonTuritsyn/FileManager/assets/36898420/3c581ecf-2453-46ba-8fa0-2ea42bb2d9d1" width=30% height=30%>
+
+<img src="https://github.com/AntonTuritsyn/FileManager/assets/36898420/a1f0c7d3-e4de-4364-adfa-819172a10f3e" width=30% height=30%>
