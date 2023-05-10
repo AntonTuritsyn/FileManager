@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FileManager</string>
+    <string name="button_text">Погнали</string>
+    <string name="action_settings">Settings</string>
+    <string name="nofiles_text">Здесь нечего смотреть.<br />
+        Иди другой дорогой, путник</string>
+
+
+    <string name="sort_by_name">Сорт. по названию</string>
+    <string name="sort_name_asc">A-z</string>
+    <string name="sort_name_desc">z-A</string>
+
+    <string name="sort_by_size">Сорт. по размеру</string>
+    <string name="sort_size_asc">По возрастанию</string>
+    <string name="sort_size_desc">По убыванию</string>
+
+    <string name="sort_by_date">Сорт. по дате</string>
+    <string name="sort_date_asc">Раньше</string>
+    <string name="sort_date_desc">Позже</string>
+
+    <string name="sort_by_extension">Сорт. по формату</string>
+    <string name="sort_ext_asc">Туда</string>
+    <string name="sort_ext_desc">Сюда</string>
+
+    <string name="changes">Показать</string>
+    <string name="all_files">Все</string>
+    <string name="changed_files">Измененные</string>
+
+</resources>
